@@ -1,0 +1,15 @@
+/ciberseguridad
+│
+├── index.html              (Página principal)
+├── css/
+│   └── estilos.css
+│
+├── paginas/
+│   ├── phishing.html
+│   ├── malware.html
+│   ├── contraseñas.html
+│   ├── redes.html
+│   ├── privacidad.html
+│   ├── redes-sociales.html
+│   ├── dispositivos.html
+│   └── recursos.html
