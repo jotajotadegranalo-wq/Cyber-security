@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>CyberSeguridad - Aprende a Protegerte de los ataques comunes </title>
+    <link rel="stylesheet" href="css/estilos.css">
+</head>
+<body>
+
+<header>
+    <h1>CyberSeguridad</h1>
+    <p>Aprende a protegerte de los ataques digitales</p>
+</header>
+
+<nav>
+    <a href="index.html">Inicio</a>
+    <a href="paginas/phishing.html">Phishing</a>
+    <a href="paginas/malware.html">Malware</a>
+    <a href="paginas/contraseñas.html">Contraseñas</a>
+    <a href="paginas/redes.html">Redes</a>
+    <a href="paginas/privacidad.html">Privacidad</a>
+    <a href="paginas/redes-sociales.html">Redes Sociales</a>
+    <a href="paginas/dispositivos.html">Dispositivos</a>
+    <a href="paginas/recursos.html">Recursos</a>
+</nav>
+
+<main>
+    <h2>¿Por qué es importante la ciberseguridad?</h2>
+    <p>
+        La ciberseguridad nos ayuda a proteger nuestra información personal,
+        nuestras cuentas y nuestros dispositivos frente a ataques digitales.
+    </p>
+
+    <h3>¿Qué aprenderás aquí?</h3>
+    <ul>
+        <li>Identificar ataques comunes</li>
+        <li>Proteger tus contraseñas</li>
+        <li>Navegar de forma segura</li>
+        <li>Cuidar tu privacidad</li>
+    </ul>
+</main>
+
+<footer>
+    <p>© 2026 - Educación en Ciberseguridad</p>
+</footer>
+
+</body>
+</html>
