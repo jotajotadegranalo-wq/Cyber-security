@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Phishing - CyberSeguridad</title>
+    <link rel="stylesheet" href="../css/estilos.css">
+</head>
+<body>
+
+<header>
+    <h1>Phishing</h1>
+</header>
+
+<nav>
+    <a href="../index.html">Inicio</a>
+    <a href="phishing.html">Phishing</a>
+    <a href="malware.html">Malware</a>
+    <a href="contraseñas.html">Contraseñas</a>
+    <a href="redes.html">Redes</a>
+    <a href="privacidad.html">Privacidad</a>
+    <a href="redes-sociales.html">Redes Sociales</a>
+    <a href="dispositivos.html">Dispositivos</a>
+    <a href="recursos.html">Recursos</a>
+</nav>
+
+<main>
+    <h2>¿Qué es el phishing?</h2>
+    <p>
+        El phishing es un tipo de ataque en el que los atacantes se hacen pasar
+        por entidades confiables para robar información.
+    </p>
+
+    <h3>Cómo protegerte</h3>
+    <ul>
+        <li>No hagas clic en enlaces sospechosos</li>
+        <li>Verifica el remitente</li>
+        <li>No compartas datos personales</li>
+    </ul>
+</main>
+
+<footer>
+    <p>© 2026 - CyberSeguridad</p>
+</footer>
+
+</body>
+</html>
